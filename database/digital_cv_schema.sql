@@ -1,3 +1,4 @@
+-- Active: 1777191785741@@localhost@3306@digital_cv_db
 -- ============================================================
 --  Digital CV System — MySQL Database Schema
 --  Database  : digital_cv_db
